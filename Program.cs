@@ -7,9 +7,9 @@ namespace MyApplication
         Cylinder c1 = new Cylinder();
 
         // Radius
-        c1.Radius = 5.25;
+       c1.SetRadius(5.25);
         // Höhe
-        c1.Height = 20.5;
+        c1.SetHeight(20.5);
 
         // Durchmesser
         double diameter1 = c1.GetDiameter();
@@ -26,8 +26,8 @@ namespace MyApplication
         double surfaceArea1 = c1.GetSurfaceArea();
 
         Console.WriteLine("Cylinder 01:");
-        Console.WriteLine("radius = " + c1.Radius);
-        Console.WriteLine("height = " + c1.Height);
+        Console.WriteLine("radius = " + c1.GetRadius());
+        Console.WriteLine("height = " + c1.GetHeight());
         Console.WriteLine("base area = " + baseArea1);
         Console.WriteLine("diameter = " + diameter1);
         Console.WriteLine("base area = " + baseArea1);

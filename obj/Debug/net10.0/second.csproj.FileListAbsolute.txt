@@ -12,3 +12,4 @@ C:\Users\Abbas Ehsani\Desktop\Berufschule\Semester 3\OOP\second\obj\Debug\net10.
 C:\Users\Abbas Ehsani\Desktop\Berufschule\Semester 3\OOP\second\obj\Debug\net10.0\second.pdb
 C:\Users\Abbas Ehsani\Desktop\Berufschule\Semester 3\OOP\second\obj\Debug\net10.0\second.genruntimeconfig.cache
 C:\Users\Abbas Ehsani\Desktop\Berufschule\Semester 3\OOP\second\obj\Debug\net10.0\ref\second.dll
+C:\Users\Abbas Ehsani\Desktop\Berufschule\Semester 3\OOP\second\obj\Debug\net10.0\second.sourcelink.json
